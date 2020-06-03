@@ -89,6 +89,7 @@
     * <http://istillshootfilm.org/post/522283334/how-to-develop-color-film-at-home-c-41>
 * E-6
     * <http://shop.sreda.photo/film-developing/>
+    * <http://www.photopro.ru/proyavka-slaidov/>
 * ЧБ
     * фотолаба
     * дома по инструкции: <http://fototips.ru/praktika/plyonochnaya-fotografiya-proyavka-chyorno-beloj-plyonki/>
